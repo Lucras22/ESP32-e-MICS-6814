@@ -9,4 +9,4 @@ Ele geralmente é usado em sistemas de monitoramento ambiental para medir a qual
 
 ## Ligação circuito:
 
-![Imagem do WhatsApp de 2024-11-07 à(s) 16 19 38_fd9d188b](https://github.com/user-attachments/assets/3ca79c74-7e4e-4905-8b41-0e8ea9096301)
+<img src="https://github.com/user-attachments/assets/3ca79c74-7e4e-4905-8b41-0e8ea9096301" alt="circuito esp32 + MICS-6814" width="250"/>
